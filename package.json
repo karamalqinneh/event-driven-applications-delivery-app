@@ -1,0 +1,26 @@
+{
+  "name": "event-driven-applications-delivery-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csps.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karamalqinneh/event-driven-applications-delivery-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karamalqinneh/event-driven-applications-delivery-app/issues"
+  },
+  "homepage": "https://github.com/karamalqinneh/event-driven-applications-delivery-app#readme",
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
