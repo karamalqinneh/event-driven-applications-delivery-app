@@ -6,4 +6,4 @@
 
 ## UML Diagram
 
-[UML Diagram](./assets/UML-Delivery.jpg)
+![UML Diagram](./assets/UML-Delivery.jpg)
